@@ -1,4 +1,4 @@
-name: Synk
+name: Synk 01
 on: push
 jobs:
   security:
